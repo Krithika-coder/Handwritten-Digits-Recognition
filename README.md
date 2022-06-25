@@ -1,0 +1,2 @@
+# Handwritten-Digits-Recognition
+Handwritten Digit Recognition is an interesting machine learning problem in which we have to identify the handwritten digits through various classification algorithms. There are a number of ways and algorithms to recognize handwritten digits, including Deep Learning/CNN, SVM, Gaussian Naive Bayes, KNN, Decision Trees, Random Forests, etc. In this project, we will deploy a variety of machine learning algorithms from the SkLearn’s library on our dataset to classify the digits into their categories.
